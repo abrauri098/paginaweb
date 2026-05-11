@@ -9,9 +9,9 @@ img{
     margin: auto;
     display: block;
     margin-bottom: 30px;
-    border: 2px solid pink;
+    border: 2px solid blueviolet;
     border-radius: 100%;
-    box-shadow: 0px 0px 30px blanchedalmond;
+    box-shadow: 0px 0px 30px goldenrod;
     transition: all 2s ease;
 }
 
@@ -21,7 +21,7 @@ img:hover{
     margin: auto;
     display: block;
     margin-bottom: 30px;
-    border: 2px solid black;
+    border: 2px solid rosybrown;
     border-radius: 30%;
     box-shadow: 0px 0px 30px burlywoods;
     transform: scale(1.2) rotate(35deg);
